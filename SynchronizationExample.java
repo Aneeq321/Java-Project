@@ -1,7 +1,7 @@
 package newexample;
 
 class Counter {
-    private int count = 0;
+    private int count = 1;
 
     // Synchronized method to increment the count
     public synchronized void increment() {
